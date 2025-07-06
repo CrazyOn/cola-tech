@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://crazyon.github.io/cola-tech/</loc>
+    </url>
+    <url>
+        <loc>https://crazyon.github.io/cola-tech/categories/</loc>
+    </url>
+    <url>
+        <loc>https://crazyon.github.io/cola-tech/categories/personal-journey/</loc>
+    </url>
+    <url>
+        <loc>https://crazyon.github.io/cola-tech/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://crazyon.github.io/cola-tech/tags/</loc>
+    </url>
+    <url>
+        <loc>https://crazyon.github.io/cola-tech/tags/hardware/</loc>
+    </url>
+    <url>
+        <loc>https://crazyon.github.io/cola-tech/tags/learning/</loc>
+    </url>
+    <url>
+        <loc>https://crazyon.github.io/cola-tech/tags/operating-system/</loc>
+    </url>
+    <url>
+        <loc>https://crazyon.github.io/cola-tech/tags/rust-for-linux/</loc>
+    </url>
+    <url>
+        <loc>https://crazyon.github.io/cola-tech/why-focus-on-rust-for-linux/</loc>
+        <lastmod>2025-07-01</lastmod>
+    </url>
+</urlset>
